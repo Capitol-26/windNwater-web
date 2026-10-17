@@ -97,23 +97,8 @@ app.innerHTML = `
               />
               <button class="button button--dark" type="submit">Join beta</button>
             </form>
-            <p class="platform-notes">
-              <span>✓ Supports iOS LiDAR</span>
-              <span>✓ Android ARCore compatible</span>
-            </p>
-            <p class="signup-note" id="signup-note" aria-live="polite">
-              Early-access signup is a demo; your email won't be saved yet.
-            </p>
           </div>
         </div>
-
-        <section class="preview" id="preview" aria-label="Interactive app preview">
-          <div class="phone">
-            <div class="phone-notch" aria-hidden="true"></div>
-            <div class="phone-screen" id="phone-screen"></div>
-          </div>
-          <p class="preview-caption">A little more balance, one room at a time.</p>
-        </section>
       </header>
 
       <section class="details-section" id="features">
