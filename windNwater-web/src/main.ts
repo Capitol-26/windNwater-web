@@ -110,17 +110,17 @@ app.innerHTML = `
           <article class="feature-card">
             <span class="feature-number">01</span>
             <h3>See your space</h3>
-            <p>Use your phone to map the room around you and get a clearer feel for its layout.</p>
+            <p>Use your phone to scan your room and find whats disturbing your chi</p>
           </article>
           <article class="feature-card">
             <span class="feature-number">02</span>
-            <h3>Find your flow</h3>
-            <p>Explore a Feng Shui-inspired rating and discover opportunities to bring things into balance.</p>
+            <h3>Change your Chi</h3>
+            <p>Get a recomendation on how to have better Feng Shui</p>
           </article>
           <article class="feature-card">
             <span class="feature-number">03</span>
-            <h3>Make small shifts</h3>
-            <p>Get thoughtful, personalized ideas to help your room feel more like you.</p>
+            <h3>Start small, end huge</h3>
+            <p>Get live feedback on what interior design changes affect your Chi</p>
           </article>
         </div>
       </section>
@@ -133,7 +133,7 @@ app.innerHTML = `
         <ol class="steps-list">
           <li><span>01</span><div><h3>Start a scan</h3><p>Move around your room and capture the walls in view.</p></div></li>
           <li><span>02</span><div><h3>Get your reading</h3><p>See a friendly snapshot of your room's energy and flow.</p></div></li>
-          <li><span>03</span><div><h3>Explore adjustments</h3><p>Try small changes at your own pace and make the space yours.</p></div></li>
+          <li><span>03</span><div><h3>Explore adjustments</h3><p>Change your room layout to better fit your needs</p></div></li>
         </ol>
       </section>
     </main>
