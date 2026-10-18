@@ -32,7 +32,16 @@ body {
   min-width: 320px;
   min-height: 100vh;
   margin: 0;
-  background: #ed9a09 url('/images/blob-scatter-haikei.svg') center top / cover no-repeat;
+ background-color: #ed9a09;
+background-image:
+  radial-gradient(circle at center, #db6002 0 95%, transparent 100%),
+  radial-gradient(circle at center, #db6002 0 95%, transparent 100%),
+  radial-gradient(circle at center, #db6002 0 95%, transparent 100%),
+  radial-gradient(circle at center, #db6002 0 95%, transparent 100%),
+  url('/images/blob-scatter-haikei.svg');
+background-size: 68px 68px, 68px 68px, 68px 68px, 68px 68px, cover;
+background-position: 8% 16%, 28% 71%, 52% 32%, 82% 76%, center top;
+background-repeat: no-repeat;
 }
 
 button,
