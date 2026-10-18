@@ -78,9 +78,6 @@ app.innerHTML = `
     <main>
       <header class="hero">
         <div class="hero-copy">
-          <p class="eyebrow"><span aria-hidden="true">✦</span> AI-powered space harmony</p>
-          <h1>Find out the<br /><em>optimal chi</em><br />for your room.</h1>
-          <p class="hero-description">
             Scan your surroundings, trace your walls, and explore your room's Feng Shui alignment
             with personalized ideas for a more harmonious space.
           </p>
