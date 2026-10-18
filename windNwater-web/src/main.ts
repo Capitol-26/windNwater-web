@@ -70,7 +70,7 @@ app.innerHTML = `
       <div class="navigation-links">
         <a href="#features">Features</a>
         <a href="#how-it-works">How it works</a>
-        <a href="#preview">App preview</a>
+        <a href="silly-bonbon-7855bf.netlify.app">App preview</a>
       </div>
     </nav>
 
