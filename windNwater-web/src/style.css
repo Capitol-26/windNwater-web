@@ -3,7 +3,7 @@
 :root {
   font-family: 'DM Sans', sans-serif;
   color: #1c1c1c;
-  background-image: url('public/images/blob-scatter-haikei.svg');
+  background: #ed9a09;
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
