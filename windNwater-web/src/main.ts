@@ -72,7 +72,6 @@ app.innerHTML = `
         <a href="#how-it-works">How it works</a>
         <a href="#preview">App preview</a>
       </div>
-      <a class="button button--dark navigation-cta" href="#download">Get the app</a>
     </nav>
 
     <main>
@@ -81,20 +80,6 @@ app.innerHTML = `
             Scan your surroundings, trace your walls, and explore your room's Feng Shui alignment
             with personalized ideas for a more harmonious space.
           </p>
-          <div class="download" id="download">
-            <form class="signup-form" id="signup-form">
-              <label class="visually-hidden" for="signup-email">Email address</label>
-              <input
-                id="signup-email"
-                name="email"
-                type="email"
-                placeholder="Enter your email for early access"
-                autocomplete="email"
-                required
-              />
-              <button class="button button--dark" type="submit">Join beta</button>
-            </form>
-          </div>
         </div>
       </header>
 
