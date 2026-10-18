@@ -30,7 +30,9 @@ html {
 
 body {
   min-width: 320px;
+  min-height: 100vh;
   margin: 0;
+  background: #ed9a09 url('/images/blob-scatter-haikei.svg') center top / cover no-repeat;
 }
 
 button,
