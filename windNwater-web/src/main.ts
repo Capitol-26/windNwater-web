@@ -70,7 +70,7 @@ app.innerHTML = `
       <div class="navigation-links">
         <a href="#features">Features</a>
         <a href="#how-it-works">How it works</a>
-        <a href="https://competely-list-sanyo-lou.trycloudflare.com/">App preview</a>
+        <a href="https://completely-list-sanyo-lou.trycloudflare.com">App preview</a>
       </div>
     </nav>
 
